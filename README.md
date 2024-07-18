@@ -1,1 +1,2 @@
 # Online--retail-recommendation-system
+The Online Retail Recommendation System project aims to develop an intelligent recommendation engine for an online retail platform using Python. This project leverages data analysis techniques to provide personalized product recommendations to users, enhancing their shopping experience and boosting sales. The system utilizes a comprehensive retail dataset to identify patterns and trends in customer behaviour.  
